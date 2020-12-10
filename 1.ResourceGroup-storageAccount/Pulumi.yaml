@@ -1,0 +1,3 @@
+name: rg-and-storage
+runtime: dotnet
+description: 1 resource group, storage account and a container
